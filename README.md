@@ -33,9 +33,9 @@ ISBN:978-0977872749 More Shibari You Can Use: Passionate Rope Bondage and Intima
 <h3>Better Bondage for Every Body: With Rope Bondage Experts From Around the World</h3>
 Ein Buch von Evie Vane. 
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2017
 <br>
-Stickworte:
+Stickworte: 
 <br>
 ISBN:978-1533152114
 <br>
@@ -44,9 +44,9 @@ ISBN:978-1533152114
 <h3>The Little Guide to Getting Tied Up: Tips for Rope Bondage Bottoms</h3>
 Ein Buch von Evie Vane.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2014
 <br>
-Stickworte:
+Stickworte: rope bottoms, rope bondage models
 <br>
 ISBN:978-1500771683
 <br>
@@ -55,7 +55,7 @@ ISBN:978-1500771683
 <h3>Essence of Shibari: Kinbaku and Japanese Rope Bondage</h3>
 Ein Buch von Shin Nawakari.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2017
 <br>
 Stickworte:
 <br>
