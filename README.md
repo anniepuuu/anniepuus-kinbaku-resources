@@ -1,7 +1,7 @@
 # Kinbaku_101
-This collection is a personal record of books and literary finds, shared solely as a resource for the community. Please note that these selections reflect my own reading journey and are not sponsored or part of any paid promotion. While I have done my best to provide accurate details regarding editions and authors, I cannot guarantee the absolute accuracy or availability of every title.
+Diese Sammlung ist ein persönliches Verzeichnis von Büchern und literarischen Entdeckungen, das ich als Ressource für die Gemeinschaft teile. Bitte beachtet, dass diese Auswahl in keiner Weise gesponsert oder Teil einer bezahlten Promotion ist. Obwohl ich mein Bestes gegeben habe, um korrekte Angaben zu Ausgaben und Autoren zu machen, kann ich keine Gewähr für die absolute Richtigkeit oder die Verfügbarkeit jedes einzelnen Titels übernehmen.
 <br>
-Literature is subjective, your personal experience may vary from my experience. I encourage you to read reviews and descriptions before diving in. This list is a living document, and I welcome your own suggestions to help it grow! If you decide to share or use this collection, I kindly ask that you credit me as the original curator.
+Literatur ist subjektiv; eure persönliche Erfahrung kann daher von meiner abweichen. Ich empfehle euch, weitere Rezensionen und Beschreibungen zu lesen, bevor ihr in ein Buch eintaucht. Diese Liste ist ein „lebendes Dokument“ und ich freue mich über eure eigenen Vorschläge, um sie stetig zu erweitern. Falls ihr euch entscheidet, diese Sammlung zu teilen oder zu nutzen, bitte ich höflich darum, mich als ursprünglichen Ersteller zu nennen.
 <h2>Bücher</h2>
 
 <h3>Shibaku</h3>
