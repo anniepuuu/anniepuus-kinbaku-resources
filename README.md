@@ -194,54 +194,78 @@ ISBN:978-3757602451
 <br>
 <a href="https://amzn.eu/d/0cJuwtA0">Hier geht's zu Amazon</a>
 
+
+
+
  
 <h2>Online Quellen</h2>
 <h3>Shibari Study</h3>
-<a href="https://shibaristudy.com/catalog">Hier geht's zur Website</a>
-<a href="https://www.youtube.com/c/ShibariStudy">Hier geht's zu Youtube</a>
+ <a href="https://shibaristudy.com/catalog">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/c/ShibariStudy">Hier geht's zu Youtube</a>
 <h3>Rope 365</h3>
-<a href="https://rope365.com/">Hier geht's zur Website</a>
+ <a href="https://rope365.com/">Hier geht's zur Website</a>
 
 <h3>Riggoros</h3>
-<a href="https://riggoros.love/shibari-lernen/">Hier geht's zur Website</a>
-<br>
-<a href="https://www.youtube.com/channel/UC7hUgmbRSHLAA84Fd4Q2NSA">Hier geht's zu Youtube</a>
+ <a href="https://riggoros.love/shibari-lernen/">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UC7hUgmbRSHLAA84Fd4Q2NSA">Hier geht's zu Youtube</a>
 
 <h3>TheDuchy</h3>
-<a href="https://www.theduchy.com/">Hier geht's zur Website</a>
-<br>
-<a href="https://www.youtube.com/channel/UCHgK2N1g0CzCQk69p6cv70w/videos">Hier geht's zu Youtube</a>
+ <a href="https://www.theduchy.com/">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UCHgK2N1g0CzCQk69p6cv70w/videos">Hier geht's zu Youtube</a>
 
 <h3>Crash Restraint</h3>
-<a href="https://crash-restraint.com/">Hier geht's zur Website</a>
+ <a href="https://crash-restraint.com/">Hier geht's zur Website</a>
 
 <h3>Kinbaku Academy</h3>
-<a href="https://kinbaku-academy.com/">Hier geht's zur Website</a>
+ <a href="https://kinbaku-academy.com/">Hier geht's zur Website</a>
 
 <h3>Bruce Esinem</h3>
-<a href="https://www.esinem.com/japanese-bondage-aka-shibari-kinbaku/">Hier geht's zur Website</a>
-<br>
-<a href="https://www.youtube.com/channel/UC14zccff9IXWmrx0ZROydNA">Hier geht's zu Youtube</a>
+ <a href="https://www.esinem.com/japanese-bondage-aka-shibari-kinbaku/">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UC14zccff9IXWmrx0ZROydNA">Hier geht's zu Youtube</a>
 
 <h3>Fesselzeit</h3>
-<a href="https://www.fesselzeit.com/">Hier geht's zur Website</a>
-<br>
-<a href="https://www.youtube.com/user/MiShibari">Hier geht's zu Youtube</a>
+ <a href="https://www.fesselzeit.com/">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/user/MiShibari">Hier geht's zu Youtube</a>
 
 <h3>JoyClub</h3>
-<a href="https://www.joyclub.de/sexeducation/courses/9.bondage.html">Hier geht's zur Website</a>
-<br>
-<a href="https://www.youtube.com/playlist?list=PL6-M23OzVAiW7qdxpCeYYyLAw9zD09ulv">Hier geht's zu Youtube</a>
+ <a href="https://www.joyclub.de/sexeducation/courses/9.bondage.html">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/playlist?list=PL6-M23OzVAiW7qdxpCeYYyLAw9zD09ulv">Hier geht's zu Youtube</a>
+ 
 <h3>Voudou Ropes </h3>
-<a href="https://www.youtube.com/@VoudouRopes">Hier geht's zu Youtube</a>
+ <a href="https://www.youtube.com/@VoudouRopes">Hier geht's zu Youtube</a>
 
 <h3>Rory's Brainworks</h3>
-<a href="https://www.youtube.com/@RorysBrainworks/videos">Hier geht's zu Youtube</a>
+ <a href="https://www.youtube.com/@RorysBrainworks/videos">Hier geht's zu Youtube</a>
 
 <h3>Bondage Tuition</h3>
-<a href="https://www.youtube.com/@BondageTuition/featured">Hier geht's zu Youtube</a>
+ <a href="https://www.youtube.com/@BondageTuition/featured">Hier geht's zu Youtube</a>
 
+<h3>Anatomie Studio
+</h3>
+ <a href="https://www.youtube.com/channel/UCSc8BQV9P0PE0i1OSRdVSxw">Hier geht's zu Youtube</a>
 
+<h3>Mr Luckies Rope</h3>
+ <a href="https://www.youtube.com/channel/UCmWzk9oX2dPI15CLyefxmYA">Hier geht's zu Youtube</a>
+ 
+<h3>The Twisted Monk</h3>
+ <a href="https://www.twistedmonk.com/collections/free-bondage-rope-tutorials">Hier geht's zur Website</a>
+ <br>
+ <a href="https://www.youtube.com/user/twistedmonkstudios">Hier geht's zu Youtube</a>
+
+<h3>EpicRope</h3>
+ <a href="https://www.youtube.com/channel/UCM5WPHGRarPW3XtKgzNFYvg">Hier geht's zu Youtube</a>
+
+<h3></h3>
+ <a href="">Hier geht's zu Youtube</a>
+
+<h3></h3>
+ <a href="">Hier geht's zu Youtube</a>
 
 <h3></h3>
 <a href="">Hier geht's zu Youtube</a>
