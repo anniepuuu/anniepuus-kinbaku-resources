@@ -11,11 +11,11 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  Keywords: basics, floor-work, suspension
  <br>
- ISBN:978-3952440728 Basics & Fundamentals - Volume 1
+ ISBN:978-3952440728 Basis & Grundlagen - Band 1
  <br>
- ISBN:978-3952440735 Takate-kote & Upper Body - Volume 2
+ ISBN:978-3952440735 Takate-kote & Oberkörper - Band 2
  <br>
- ISBN:978-3952440780 Lifting Off & Flying - Volume 3
+ ISBN:978-3952440780 Abheben & Fliegen - Band 3
  <br>
  <a href="https://shibaku.ch/shop/buecher/">Go to the shop here</a>
  <br>
