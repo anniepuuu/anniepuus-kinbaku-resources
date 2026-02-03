@@ -192,4 +192,12 @@ ISBN:978-3757602451
 
  
 <h2>Videos</h2>
+<h3>Shibari Study</h3>
+<a href="https://shibaristudy.com/catalog">Hier geht's zur Website</a>
+
+<a href="">Hier geht's zur Website</a>
+<a href="">Hier geht's zu Youtube</a>
+
 <h2>Blogs</h2>
+
+<a href="">Hier geht's zum Blog</a>
