@@ -214,7 +214,13 @@ ISBN:978-3757602451
 <h3>Crash Restraint</h3>
 <a href="https://crash-restraint.com/">Hier geht's zur Website</a>
 
+<h3>Kinbaku Academy</h3>
+<a href="https://kinbaku-academy.com/">Hier geht's zur Website</a>
 
+<h3>Bruce Esinem</h3>
+<a href="https://www.esinem.com/japanese-bondage-aka-shibari-kinbaku/">Hier geht's zur Website</a>
+<br>
+<a href="https://www.youtube.com/channel/UC14zccff9IXWmrx0ZROydNA">Hier geht's zu Youtube</a>
 
 <a href="">Hier geht's zur Website</a>
 <a href="">Hier geht's zu Youtube</a>
