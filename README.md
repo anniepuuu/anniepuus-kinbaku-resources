@@ -194,12 +194,23 @@ ISBN:978-3757602451
 <h2>Online Quellen</h2>
 <h3>Shibari Study</h3>
 <a href="https://shibaristudy.com/catalog">Hier geht's zur Website</a>
-
+<a href="https://www.youtube.com/c/ShibariStudy">Hier geht's zu Youtube</a>
 <h3>Rope 365</h3>
 <a href="https://rope365.com/">Hier geht's zur Website</a>
+
 <h3>Riggoros</h3>
 <a href="https://riggoros.love/shibari-lernen/">Hier geht's zur Website</a>
+<br>
 <a href="https://www.youtube.com/channel/UC7hUgmbRSHLAA84Fd4Q2NSA">Hier geht's zu Youtube</a>
+
+<h3>TheDuchy</h3>
+<a href="https://www.theduchy.com/">Hier geht's zur Website</a>
+<br>
+<a href="https://www.youtube.com/channel/UCHgK2N1g0CzCQk69p6cv70w/videos">Hier geht's zu Youtube</a>
+
+<h3>Crash Restraint</h3>
+<a href="https://crash-restraint.com/">Hier geht's zur Website</a>
+
 
 
 <a href="">Hier geht's zur Website</a>
