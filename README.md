@@ -3,7 +3,7 @@ Online repository for Kinbaku
 <h2>Bücher</h2>
 
 <h3>Shibaku</h3>
-Dreiteilige Buchreihe von Peter Wettstein.
+Dreiteilige Buchreihe von Peter Wettstein. Erscheinungsjahr:
 <br>
 ISBN:978-3952440728 Basis & Grundlagen - Band 1
 <br>
@@ -23,7 +23,11 @@ ISBN:978-0977872749 More Shibari You Can Use: Passionate Rope Bondage and Intima
 <a href="https://www.amazon.de/dp/B087V7FL5L?binding=kindle_edition&ref=dbs_dp_sirpi">Hier geht's zu Amazon</a>
 
 <h3>Better Bondage for Every Body: With Rope Bondage Experts From Around the World</h3>
-Ein Buch von Evie Vane.
+Ein Buch von Evie Vane. 
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-1533152114
 <br>
@@ -32,12 +36,20 @@ ISBN:978-1533152114
 <h3>The Little Guide to Getting Tied Up: Tips for Rope Bondage Bottoms</h3>
 Ein Buch von Evie Vane.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-1500771683
 <br>
 <a href="https://amzn.eu/d/00LwolDu">Hier geht's zu Amazon</a>
 
 <h3>Essence of Shibari: Kinbaku and Japanese Rope Bondage</h3>
 Ein Buch von Shin Nawakari.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-1942733850
 <br>
@@ -46,12 +58,20 @@ ISBN:978-1942733850
 <h3>Shibari Suspensions: A Step by Step Guide</h3>
 Ein Buch von Gestalta.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-0957627543
 <br>
 <a href="https://amzn.eu/d/00xOPDOU">Hier geht's zu Amazon</a>
 
 <h3>Seductive Art of Japanese Bondage</h3>
 Ein Buch von Midori und Craig Morey.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-1890159382
 <br>
@@ -60,6 +80,10 @@ ISBN:978-1890159382
 <h3>Foundations of Rope Bondage: A Fun and Friendly Introduction to Rope Fundamentals</h3>
 Ein Buch von Lazarus Redmayne, Kajira Blue und Theduchy.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-1937866433
 <br>
 <a href="https://amzn.eu/d/0iLSXhVn">Hier geht's zu Amazon</a>
@@ -67,12 +91,20 @@ ISBN:978-1937866433
 <h3>Tying and Flying: Bondage for self-suspension</h3>
 Ein Buch von Shay Tiziano.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-0578566405
 <br>
 <a href="https://amzn.eu/d/0iHgFErn">Hier geht's zu Amazon</a>
 
 <h3>Douglas Kent's Complete Shibari</h3>
 Zweitilige Buchreihe von Douglas Kent.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-0973668810 Douglas Kent's Complete Shibari: Land
 <br>
@@ -83,12 +115,20 @@ ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
 <h3>Das Bondage-Handbuch: Anleitung zum einvernehmlichen Fesseln</h3>
 Ein Buch von Matthias T. J. Grimme.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-3931406714
 <br>
 <a href="https://amzn.eu/d/0h5ZU2fp">Hier geht's zu Amazon</a>
 
 <h3>Japan-Bondage Das Bondage-Handbuch Spezial</h3>
 Ein Buch von Matthias T. J. Grimme.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-3931406707
 <br>
@@ -97,12 +137,20 @@ ISBN:978-3931406707
 <h3>Fesseln lernen: Anleitung zum Shibari Bondage</h3>
 Ein Buch von Hagen Alkis.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:978-3754342749
 <br>
 <a href="https://amzn.eu/d/05fql4S8">Hier geht's zu Amazon</a>
 
 <h3>Shibari Lernen 1: Dein Einstieg in die japanische Seilkunst</h3>
 Ein Buch von Ichi Taikan.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:979-8283576497
 <br>
@@ -111,12 +159,20 @@ ISBN:979-8283576497
 <h3>Shibari Für Anfänger: Entdeckung Der Schönheit Und Eleganz Von Kinbaku</h3>
 Ein Buch von Yusuke Kojima.
 <br>
+Erscheinungsjahr:
+<br>
+Stickworte:
+<br>
 ISBN:979-8304050128
 <br>
 <a href="https://amzn.eu/d/05887s5K">Hier geht's zu Amazon</a>
 
 <h3>Der Bondage Guide: Durch fesselndes Spiel aus Dominanz und Unterwerfung zu mehr Leidenschaft und Intimität in Ihrer Beziehung </h3>
 Ein Buch von Laura Mansen.
+<br>
+Erscheinungsjahr:
+<br>
+Stickworte:
 <br>
 ISBN:978-3757602451
 <br>
