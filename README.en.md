@@ -1,4 +1,4 @@
-<h1>Kinbaku 101</h1>
+<h1>anniepuu's kinbaku/shibari/rope bondage</h1>
 
 [![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/anniepuuu/Kinbaku_101/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/anniepuuu/Kinbaku_101/blob/main/README.en.md)
