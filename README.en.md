@@ -193,3 +193,70 @@
  <a href="https://amzn.eu/d/0cJuwtA0">Go to Amazon here</a>
 
 <h2>Online sources</h2>
+
+<h3>Shibari Study</h3>
+ <a href="https://shibaristudy.com/catalog">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/c/ShibariStudy">Go to Youtube here</a>
+<h3>Rope 365</h3>
+ <a href="https://rope365.com/">Go to the website here</a>
+<h3>Riggoros</h3>
+ <a href="https://riggoros.love/shibari-lernen/">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UC7hUgmbRSHLAA84Fd4Q2NSA">Go to Youtube here</a>
+<h3>TheDuchy</h3>
+ <a href="https://www.theduchy.com/">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UCHgK2N1g0CzCQk69p6cv70w/videos">Go to Youtube here</a>
+<h3>Crash Restraint</h3>
+ <a href="https://crash-restraint.com/">Go to the website here</a>
+<h3>Kinbaku Academy</h3>
+ <a href="https://kinbaku-academy.com/">Go to the website here</a>
+<h3>Bruce Esinem</h3>
+ <a href="https://www.esinem.com/japanese-bondage-aka-shibari-kinbaku/">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/channel/UC14zccff9IXWmrx0ZROydNA">Go to Youtube here</a>
+<h3>Fesselzeit</h3>
+ <a href="https://www.fesselzeit.com/">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/user/MiShibari">Go to Youtube here</a>
+<h3>JoyClub</h3>
+ <a href="https://www.joyclub.de/sexeducation/courses/9.bondage.html">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/playlist?list=PL6-M23OzVAiW7qdxpCeYYyLAw9zD09ulv">Go to Youtube here</a>
+ 
+<h3>Voudou Ropes </h3>
+ <a href="https://www.youtube.com/@VoudouRopes">Go to Youtube here</a>
+<h3>Rory's Brainworks</h3>
+ <a href="https://www.youtube.com/@RorysBrainworks/videos">Go to Youtube here</a>
+<h3>Bondage Tuition</h3>
+ <a href="https://www.youtube.com/@BondageTuition/featured">Go to Youtube here</a>
+<h3>Anatomie Studio
+</h3>
+ <a href="https://www.youtube.com/channel/UCSc8BQV9P0PE0i1OSRdVSxw">Go to Youtube here</a>
+<h3>Mr Luckies Rope</h3>
+ <a href="https://www.youtube.com/channel/UCmWzk9oX2dPI15CLyefxmYA">Go to Youtube here</a>
+ 
+<h3>The Twisted Monk</h3>
+ <a href="https://www.twistedmonk.com/collections/free-bondage-rope-tutorials">Go to the website here</a>
+ <br>
+ <a href="https://www.youtube.com/user/twistedmonkstudios">Go to Youtube here</a>
+<h3>EpicRope</h3>
+ <a href="https://www.youtube.com/channel/UCM5WPHGRarPW3XtKgzNFYvg">Go to Youtube here</a>
+<h3>Belle Corde</h3>
+ <a href="https://bellecorde.com/instructional-videos-1">Go to the website here</a>
+<h3>deGiotto Rope</h3>
+ <a href="https://vimeo.com/degiottorope">Go to Vimeo here</a>
+<h3>La quarta corda</h3>
+ <a href="https://www.laquartacorda.it/en/nawame/">Go to the website here</a>
+ 
+<h3>Yukinaga Max</h3>
+ <a href="https://vimeo.com/yukinaga">Go to Vimeo here</a>
+ 
+<h3>Anatomie Studio</h3>
+ <a href="https://anatomiestudio.com/shibari-rope-videos/">Go to the website here</a>
+ 
+<h3>Rope Study</h3>
+ <a href="https://ropestudy.com/learn/">Go to the website here</a>
+<h3>ESINEM Shibari Classes</h3>
+ <a href="https://www.shibariclasses.com/l/products?courseCategory=Free&sortKey=name&sortDirection=asc&page=1">Go to the website here</a>
