@@ -1,5 +1,7 @@
 # Kinbaku 101
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![de](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+<br>
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md)
 <br>
 Diese Sammlung ist ein persönliches Verzeichnis von Büchern und literarischen Entdeckungen, das ich als Ressource für die Gemeinschaft teile. Bitte beachtet, dass diese Auswahl in keiner Weise gesponsert oder Teil einer bezahlten Promotion ist. Obwohl ich mein Bestes gegeben habe, um korrekte Angaben zu Ausgaben und Autoren zu machen, kann ich keine Gewähr für die absolute Richtigkeit oder die Verfügbarkeit jedes einzelnen Titels übernehmen.
 <br>
