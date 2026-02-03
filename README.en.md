@@ -4,5 +4,190 @@ This collection is a personal directory of books and literary discoveries that I
 Literature is subjective; therefore, your personal experience may differ from mine. I recommend reading further reviews and descriptions before diving into a book. This list is a "living document," and I welcome your own suggestions to help it grow. If you decide to share or use this collection, I kindly ask that you credit me as the original creator.
 <h2>Books</h2>
 
+<h3>Shibaku</h3>
+ Three-part book series by Peter Wettstein. 
+ <br>
+ Publication period: 2017-2021
+ <br>
+ Keywords: basics, floor-work, suspension
+ <br>
+ ISBN:978-3952440728 Basics & Fundamentals - Volume 1
+ <br>
+ ISBN:978-3952440735 Takate-kote & Upper Body - Volume 2
+ <br>
+ ISBN:978-3952440780 Lifting Off & Flying - Volume 3
+ <br>
+ <a href="https://shibaku.ch/shop/buecher/">Go to the shop here</a>
+ <br>
+ <a href="https://www.amazon.de/stores/author/B01N9ZLV81/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab&pd_rd_w=EOc9u&content-id=amzn1.sym.07c29de6-25cd-45aa-92da-27b85b57f7dc&pf_rd_p=07c29de6-25cd-45aa-92da-27b85b57f7dc&pf_rd_r=261-1492907-9695918&pd_rd_wg=dyQkN&pd_rd_r=cf492e22-e96e-4f94-a075-e4fd57ba0862">Go to Amazon here</a>
+
+<h3>Shibari You Can Use</h3>
+ Two-part book series by Lee Harrington.
+ <br>
+ Publication period: 2014-2015
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-0977872718 Shibari You Can Use: Japanese Rope Bondage and Erotic
+ <br>
+ ISBN:978-0977872749 More Shibari You Can Use: Passionate Rope Bondage and Intimate Connection
+ <br>
+<a href="https://www.amazon.de/dp/B087V7FL5L?binding=kindle_edition&ref=dbs_dp_sirpi">Go to Amazon here</a>
+
+<h3>Better Bondage for Every Body: With Rope Bondage Experts From Around the World</h3>
+ A book by Evie Vane. 
+ <br>
+ Publication year: 2017
+ <br>
+ Keywords: 
+ <br>
+ ISBN:978-1533152114
+ <br>
+ <a href="https://amzn.eu/d/09RgwNMY">Go to Amazon here</a>
+
+<h3>The Little Guide to Getting Tied Up: Tips for Rope Bondage Bottoms</h3>
+ A book by Evie Vane.
+ <br>
+ Publication year: 2014
+ <br>
+ Keywords: rope bottoms, rope bondage models
+ <br>
+ ISBN:978-1500771683
+ <br>
+ <a href="https://amzn.eu/d/00LwolDu">Go to Amazon here</a>
+
+<h3>Essence of Shibari: Kinbaku and Japanese Rope Bondage</h3>
+ A book by Shin Nawakari.
+ <br>
+ Publication year: 2017
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-1942733850
+ <br>
+<a href="https://amzn.eu/d/040I9b0v">Go to Amazon here</a>
+
+<h3>Shibari Suspensions: A Step by Step Guide</h3>
+ A book by Gestalta.
+ <br>
+ Publication year: 2019
+ <br>
+ Keywords: suspension
+ <br>
+ ISBN:978-0957627543
+ <br>
+<a href="https://amzn.eu/d/00xOPDOU">Go to Amazon here</a>
+
+<h3>Seductive Art of Japanese Bondage</h3>
+ A book by Midori and Craig Morey.
+ <br>
+ Publication year: 2002
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-1890159382
+ <br>
+ <a href="https://amzn.eu/d/0cZVnA2T">Go to Amazon here</a>
+
+<h3>Foundations of Rope Bondage: A Fun and Friendly Introduction to Rope Fundamentals</h3>
+ A book by Lazarus Redmayne, Kajira Blue and Theduchy.
+ <br>
+ Publication year: 2023
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-1937866433
+ <br>
+<a href="https://amzn.eu/d/0iLSXhVn">Go to Amazon here</a>
+
+<h3>Tying and Flying: Bondage for self-suspension</h3>
+ A book by Shay Tiziano.
+ <br>
+ Publication year: 2019
+ <br>
+ Keywords: self-suspension
+ <br>
+ ISBN:978-0578566405
+ <br>
+ <a href="https://amzn.eu/d/0iHgFErn">Go to Amazon here</a>
+
+<h3>Douglas Kent's Complete Shibari</h3>
+ Two-part book series by Douglas Kent.
+ <br>
+ Publication period: 2010
+ <br>
+ Keywords: floor-work, suspension
+ <br>
+ ISBN:978-0973668810 Douglas Kent's Complete Shibari: Land
+ <br>
+ ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
+ <br>
+ <a href="https://www.amazon.de/dp/B0BFFJDRVL?binding=paperback&ref_=ast_author_bsi">Go to Amazon here</a>
+
+<h3>The Bondage Handbook: A Guide to Consensual Bondage</h3>
+ A book by Matthias T. J. Grimme.
+ <br>
+ Publication year: 2011
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-3931406714
+ <br>
+ <a href="https://amzn.eu/d/0h5ZU2fp">Go to Amazon here</a>
+
+<h3>Japanese Bondage - The Bondage Handbook Special</h3>
+ A book by Matthias T. J. Grimme.
+ <br>
+ Publication year: 2011
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-3931406707
+ <br>
+ <a href="https://amzn.eu/d/03tuIkBY">Go to Amazon here</a>
+
+<h3>Learning to Tie: A Guide to Shibari Bondage</h3>
+ A book by Hagen Alkis.
+ <br>
+ Publication year: 2023
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-3754342749
+ <br>
+ <a href="https://amzn.eu/d/05fql4S8">Go to Amazon here</a>
+
+<h3>Learning Shibari 1: Your Introduction to the Japanese Rope Art</h3>
+ A book by Ichi Taikan.
+ <br>
+ Publication year: 2025
+ <br>
+ Keywords: basics
+ <br>
+ ISBN:979-8283576497
+ <br>
+ <a href="https://amzn.eu/d/0dqGkYsc">Go to Amazon here</a>
+
+<h3>Shibari For Beginners: Discovering the Beauty and Elegance of Kinbaku</h3>
+ A book by Yusuke Kojima.
+ <br>
+ Publication year: 2024
+ <br>
+ Keywords: basics
+ <br>
+ ISBN:979-8304050128
+ <br>
+ <a href="https://amzn.eu/d/05887s5K">Go to Amazon here</a>
+
+<h3>The Bondage Guide: Through Captivating Play of Dominance and Submission to More Passion and Intimacy in Your Relationship</h3>
+ A book by Laura Mansen.
+ <br>
+ Publication year: 2024
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-3757602451
+ <br>
+ <a href="https://amzn.eu/d/0cJuwtA0">Go to Amazon here</a>
 
 <h2>Online sources</h2>
