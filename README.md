@@ -80,5 +80,26 @@ ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
 <br>
 <a href="https://www.amazon.de/dp/B0BFFJDRVL?binding=paperback&ref_=ast_author_bsi">Hier geht's zu Amazon</a>
 
+<h3>Das Bondage-Handbuch: Anleitung zum einvernehmlichen Fesseln</h3>
+Ein Buch von Matthias T. J. Grimme.
+<br>
+ISBN:978-3931406714
+<br>
+<a href="https://amzn.eu/d/0h5ZU2fp">Hier geht's zu Amazon</a>
+
+<h3>Japan-Bondage Das Bondage-Handbuch Spezial</h3>
+Ein Buch von Matthias T. J. Grimme.
+<br>
+ISBN:978-3931406707
+<br>
+<a href="https://amzn.eu/d/03tuIkBY">Hier geht's zu Amazon</a>
+
+<h3>Fesseln lernen: Anleitung zum Shibari Bondage</h3>
+Ein Buch von Hagen Alkis.
+<br>
+ISBN:978-3754342749
+<br>
+<a href="https://amzn.eu/d/05fql4S8">Hier geht's zu Amazon</a>
+
 <h2>Videos</h2>
 <h2>Blogs</h2>
