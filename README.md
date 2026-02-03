@@ -191,15 +191,14 @@ ISBN:978-3757602451
 <a href="https://amzn.eu/d/0cJuwtA0">Hier geht's zu Amazon</a>
 
  
-<h2>Videos</h2>
+<h2>Online Quellen</h2>
 <h3>Shibari Study</h3>
 <a href="https://shibaristudy.com/catalog">Hier geht's zur Website</a>
 
+<h3>Rope 365</h3>
+<a href="https://rope365.com/">Hier geht's zur Website</a>
+
+
+
 <a href="">Hier geht's zur Website</a>
 <a href="">Hier geht's zu Youtube</a>
-
-<h2>Blogs</h2>
-<h3>Rope 365</h3>
-<a href="https://rope365.com/">Hier geht's zum Blog</a>
-
-<a href="">Hier geht's zum Blog</a>
