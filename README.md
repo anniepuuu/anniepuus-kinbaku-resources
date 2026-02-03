@@ -20,7 +20,7 @@ ISBN:978-3952440780 Abheben & Fliegen - Band 3
 <h3>Shibari You Can Use</h3>
 Zweitelige Buchreihe von Lee Harrington.
 <br>
-Erscheinungszeitraum:
+Erscheinungszeitraum: 2014-2015
 <br>
 Stickworte:
 <br>
