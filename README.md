@@ -1,4 +1,4 @@
-# Kinbaku_101
+# Kinbaku 101
 Diese Sammlung ist ein persönliches Verzeichnis von Büchern und literarischen Entdeckungen, das ich als Ressource für die Gemeinschaft teile. Bitte beachtet, dass diese Auswahl in keiner Weise gesponsert oder Teil einer bezahlten Promotion ist. Obwohl ich mein Bestes gegeben habe, um korrekte Angaben zu Ausgaben und Autoren zu machen, kann ich keine Gewähr für die absolute Richtigkeit oder die Verfügbarkeit jedes einzelnen Titels übernehmen.
 <br>
 Literatur ist subjektiv; eure persönliche Erfahrung kann daher von meiner abweichen. Ich empfehle euch, weitere Rezensionen und Beschreibungen zu lesen, bevor ihr in ein Buch eintaucht. Diese Liste ist ein „lebendes Dokument“ und ich freue mich über eure eigenen Vorschläge, um sie stetig zu erweitern. Falls ihr euch entscheidet, diese Sammlung zu teilen oder zu nutzen, bitte ich höflich darum, mich als ursprünglichen Ersteller zu nennen.
