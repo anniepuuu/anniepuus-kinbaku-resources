@@ -151,48 +151,48 @@ Literatur ist subjektiv; eure persönliche Erfahrung kann daher von meiner abwei
  <a href="https://amzn.eu/d/03tuIkBY">Hier geht's zu Amazon</a>
 
 <h3>Fesseln lernen: Anleitung zum Shibari Bondage</h3>
-Ein Buch von Hagen Alkis.
-<br>
-Erscheinungsjahr: 2023
-<br>
-Stickworte:
-<br>
-ISBN:978-3754342749
-<br>
-<a href="https://amzn.eu/d/05fql4S8">Hier geht's zu Amazon</a>
+ Ein Buch von Hagen Alkis.
+ <br>
+ Erscheinungsjahr: 2023
+ <br>
+ Stickworte:
+ <br>
+ ISBN:978-3754342749
+ <br>
+ <a href="https://amzn.eu/d/05fql4S8">Hier geht's zu Amazon</a>
 
 <h3>Shibari Lernen 1: Dein Einstieg in die japanische Seilkunst</h3>
-Ein Buch von Ichi Taikan.
-<br>
-Erscheinungsjahr: 2025
-<br>
-Stickworte: basics
-<br>
-ISBN:979-8283576497
-<br>
-<a href="https://amzn.eu/d/0dqGkYsc">Hier geht's zu Amazon</a>
+ Ein Buch von Ichi Taikan.
+ <br>
+ Erscheinungsjahr: 2025
+ <br>
+ Stickworte: basics
+ <br>
+ ISBN:979-8283576497
+ <br>
+ <a href="https://amzn.eu/d/0dqGkYsc">Hier geht's zu Amazon</a>
 
 <h3>Shibari Für Anfänger: Entdeckung Der Schönheit Und Eleganz Von Kinbaku</h3>
-Ein Buch von Yusuke Kojima.
-<br>
-Erscheinungsjahr: 2024
-<br>
-Stickworte: basics
-<br>
-ISBN:979-8304050128
-<br>
-<a href="https://amzn.eu/d/05887s5K">Hier geht's zu Amazon</a>
+ Ein Buch von Yusuke Kojima.
+ <br>
+ Erscheinungsjahr: 2024
+ <br>
+ Stickworte: basics
+ <br>
+ ISBN:979-8304050128
+ <br>
+ <a href="https://amzn.eu/d/05887s5K">Hier geht's zu Amazon</a>
 
 <h3>Der Bondage Guide: Durch fesselndes Spiel aus Dominanz und Unterwerfung zu mehr Leidenschaft und Intimität in Ihrer Beziehung </h3>
-Ein Buch von Laura Mansen.
-<br>
-Erscheinungsjahr: 2024
-<br>
-Stickworte:
-<br>
-ISBN:978-3757602451
-<br>
-<a href="https://amzn.eu/d/0cJuwtA0">Hier geht's zu Amazon</a>
+ Ein Buch von Laura Mansen.
+ <br>
+ Erscheinungsjahr: 2024
+ <br>
+ Stickworte:
+ <br>
+ ISBN:978-3757602451
+ <br>
+ <a href="https://amzn.eu/d/0cJuwtA0">Hier geht's zu Amazon</a>
 
 
 
