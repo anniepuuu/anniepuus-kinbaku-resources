@@ -124,7 +124,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://www.amazon.de/dp/B0BFFJDRVL?binding=paperback&ref_=ast_author_bsi">Go to Amazon here</a>
 
-<h3>The Bondage Handbook: A Guide to Consensual Bondage</h3>
+<h3>Das Bondage-Handbuch: Anleitung zum einvernehmlichen Fesseln</h3>
  A book by Matthias T. J. Grimme.
  <br>
  Publication year: 2011
@@ -135,7 +135,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://amzn.eu/d/0h5ZU2fp">Go to Amazon here</a>
 
-<h3>Japanese Bondage - The Bondage Handbook Special</h3>
+<h3>Japan-Bondage Das Bondage-Handbuch Spezial</h3>
  A book by Matthias T. J. Grimme.
  <br>
  Publication year: 2011
@@ -146,7 +146,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://amzn.eu/d/03tuIkBY">Go to Amazon here</a>
 
-<h3>Learning to Tie: A Guide to Shibari Bondage</h3>
+<h3>Fesseln lernen: Anleitung zum Shibari Bondage</h3>
  A book by Hagen Alkis.
  <br>
  Publication year: 2023
@@ -157,7 +157,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://amzn.eu/d/05fql4S8">Go to Amazon here</a>
 
-<h3>Learning Shibari 1: Your Introduction to the Japanese Rope Art</h3>
+<h3>Shibari Lernen 1: Dein Einstieg in die japanische Seilkunst</h3>
  A book by Ichi Taikan.
  <br>
  Publication year: 2025
@@ -168,7 +168,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://amzn.eu/d/0dqGkYsc">Go to Amazon here</a>
 
-<h3>Shibari For Beginners: Discovering the Beauty and Elegance of Kinbaku</h3>
+<h3>Shibari Für Anfänger: Entdeckung Der Schönheit Und Eleganz Von Kinbaku</h3>
  A book by Yusuke Kojima.
  <br>
  Publication year: 2024
@@ -179,7 +179,7 @@ Literature is subjective; therefore, your personal experience may differ from mi
  <br>
  <a href="https://amzn.eu/d/05887s5K">Go to Amazon here</a>
 
-<h3>The Bondage Guide: Through Captivating Play of Dominance and Submission to More Passion and Intimacy in Your Relationship</h3>
+<h3>Der Bondage Guide: Durch fesselndes Spiel aus Dominanz und Unterwerfung zu mehr Leidenschaft und Intimität in Ihrer Beziehung</h3>
  A book by Laura Mansen.
  <br>
  Publication year: 2024
