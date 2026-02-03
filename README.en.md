@@ -1,5 +1,8 @@
 <h1>Kinbaku 101</h1>
 
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/anniepuuu/Kinbaku_101/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/anniepuuu/Kinbaku_101/blob/main/README.en.md)
+<br>
 > [!IMPORTANT]
 >This collection is a personal directory of books and literary discoveries that I am sharing as a resource for the community. Please note that this selection is in no way sponsored or part of any paid promotion. While I have done my best to provide accurate information regarding editions and authors, I cannot guarantee the absolute correctness or availability of every single title.
 ><br>
