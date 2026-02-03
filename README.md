@@ -222,5 +222,15 @@ ISBN:978-3757602451
 <br>
 <a href="https://www.youtube.com/channel/UC14zccff9IXWmrx0ZROydNA">Hier geht's zu Youtube</a>
 
+<h3>Fesselzeit</h3>
+ <a href="https://www.fesselzeit.com/">Hier geht's zur Website</a>
+<a href="https://www.youtube.com/user/MiShibari">Hier geht's zu Youtube</a>
+
+<h3>JoyClub</h3>
+<a href="https://www.joyclub.de/sexeducation/courses/9.bondage.html">Hier geht's zur Website</a>
+<br>
+<a href="https://www.youtube.com/playlist?list=PL6-M23OzVAiW7qdxpCeYYyLAw9zD09ulv">Hier geht's zu Youtube</a>
+
+
 <a href="">Hier geht's zur Website</a>
 <a href="">Hier geht's zu Youtube</a>
