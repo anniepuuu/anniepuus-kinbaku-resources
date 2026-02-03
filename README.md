@@ -1,5 +1,5 @@
 # Kinbaku 101
-[![de](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 <br>
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md)
 <br>
