@@ -199,5 +199,7 @@ ISBN:978-3757602451
 <a href="">Hier geht's zu Youtube</a>
 
 <h2>Blogs</h2>
+<h3>Rope 365</h3>
+<a href="https://rope365.com/">Hier geht's zum Blog</a>
 
 <a href="">Hier geht's zum Blog</a>
