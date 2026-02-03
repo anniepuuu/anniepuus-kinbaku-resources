@@ -232,7 +232,19 @@ ISBN:978-3757602451
 <a href="https://www.joyclub.de/sexeducation/courses/9.bondage.html">Hier geht's zur Website</a>
 <br>
 <a href="https://www.youtube.com/playlist?list=PL6-M23OzVAiW7qdxpCeYYyLAw9zD09ulv">Hier geht's zu Youtube</a>
+<h3>Voudou Ropes </h3>
+<a href="https://www.youtube.com/@VoudouRopes">Hier geht's zu Youtube</a>
 
+<h3>Rory's Brainworks</h3>
+<a href="https://www.youtube.com/@RorysBrainworks/videos">Hier geht's zu Youtube</a>
+
+<h3>Bondage Tuition</h3>
+<a href="https://www.youtube.com/@BondageTuition/featured">Hier geht's zu Youtube</a>
+
+
+
+<h3></h3>
+<a href="">Hier geht's zu Youtube</a>
 
 <a href="">Hier geht's zur Website</a>
 <a href="">Hier geht's zu Youtube</a>
