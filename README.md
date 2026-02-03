@@ -50,5 +50,19 @@ ISBN:978-0957627543
 <br>
 <a href="https://amzn.eu/d/00xOPDOU">Hier geht's zu Amazon</a>
 
+<h3>Seductive Art of Japanese Bondage</h3>
+Ein Buch von Midori und Craig Morey.
+<br>
+ISBN:978-1890159382
+<br>
+<a href="https://amzn.eu/d/0cZVnA2T">Hier geht's zu Amazon</a>
+
+<h3>Foundations of Rope Bondage: A Fun and Friendly Introduction to Rope Fundamentals</h3>
+Ein Buchvon Lazarus Redmayne, Kajira Blue und Theduchy.
+<br>
+ISBN:978-1937866433
+<br>
+<a href="https://amzn.eu/d/0iLSXhVn">Hier geht's zu Amazon</a>
+
 <h2>Videos</h2>
 <h2>Blogs</h2>
