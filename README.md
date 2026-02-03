@@ -4,11 +4,11 @@ Online repository for Kinbaku
 <h3>Shibaku</h3>
 Dreiteilige Buchreihe von Peter Wettstein.
 <br>
-ISBN:3952440728 Basis & Grundlagen · Band 1
+ISBN:3952440728 Basis & Grundlagen - Band 1
 <br>
-ISBN:3952440736 Takate-kote & Oberkörper · Band 2
+ISBN:3952440736 Takate-kote & Oberkörper - Band 2
 <br>
-ISBN:3952440787 Abheben & Fliegen · Band 3
+ISBN:3952440787 Abheben & Fliegen - Band 3
 <br>
 <a href="https://shibaku.ch/shop/buecher/">Hier geht's zum Shop</a>
 <h3>Shibari You Can Use</h3>
