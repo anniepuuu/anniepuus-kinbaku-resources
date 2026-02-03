@@ -3,7 +3,11 @@ Online repository for Kinbaku
 <h2>Bücher</h2>
 
 <h3>Shibaku</h3>
-Dreiteilige Buchreihe von Peter Wettstein. Erscheinungsjahr:
+Dreiteilige Buchreihe von Peter Wettstein. 
+<br>
+Erscheinungszeitraum:
+<br>
+Stickworte:
 <br>
 ISBN:978-3952440728 Basis & Grundlagen - Band 1
 <br>
@@ -15,6 +19,10 @@ ISBN:978-3952440780 Abheben & Fliegen - Band 3
 
 <h3>Shibari You Can Use</h3>
 Zweitelige Buchreihe von Lee Harrington.
+<br>
+Erscheinungszeitraum:
+<br>
+Stickworte:
 <br>
 ISBN:978-0977872718 Shibari You Can Use: Japanese Rope Bondage and Erotic
 <br>
@@ -102,7 +110,7 @@ ISBN:978-0578566405
 <h3>Douglas Kent's Complete Shibari</h3>
 Zweitilige Buchreihe von Douglas Kent.
 <br>
-Erscheinungsjahr:
+Erscheinungszeitraum:
 <br>
 Stickworte:
 <br>
