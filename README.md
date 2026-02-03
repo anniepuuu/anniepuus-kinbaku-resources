@@ -58,11 +58,26 @@ ISBN:978-1890159382
 <a href="https://amzn.eu/d/0cZVnA2T">Hier geht's zu Amazon</a>
 
 <h3>Foundations of Rope Bondage: A Fun and Friendly Introduction to Rope Fundamentals</h3>
-Ein Buchvon Lazarus Redmayne, Kajira Blue und Theduchy.
+Ein Buch von Lazarus Redmayne, Kajira Blue und Theduchy.
 <br>
 ISBN:978-1937866433
 <br>
 <a href="https://amzn.eu/d/0iLSXhVn">Hier geht's zu Amazon</a>
+
+<h3>Tying and Flying: Bondage for self-suspension</h3>
+Ein Buch von Shay Tiziano.
+<br>
+ISBN:978-0578566405
+<br>
+<a href="https://amzn.eu/d/0iHgFErn">Hier geht's zu Amazon</a>
+
+<h3>Douglas Kent's Complete Shibari</h3>
+Zweitilige Buchreihe von Douglas Kent.
+<br>
+ISBN:978-0973668810 Douglas Kent's Complete Shibari: Land
+ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
+<br>
+<a href="https://www.amazon.de/dp/B0BFFJDRVL?binding=paperback&ref_=ast_author_bsi">Hier geht's zu Amazon</a>
 
 <h2>Videos</h2>
 <h2>Blogs</h2>
