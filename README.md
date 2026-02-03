@@ -16,6 +16,8 @@ ISBN:978-3952440735 Takate-kote & Oberkörper - Band 2
 ISBN:978-3952440780 Abheben & Fliegen - Band 3
 <br>
 <a href="https://shibaku.ch/shop/buecher/">Hier geht's zum Shop</a>
+<br>
+<a href="https://www.amazon.de/stores/author/B01N9ZLV81/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab&pd_rd_w=EOc9u&content-id=amzn1.sym.07c29de6-25cd-45aa-92da-27b85b57f7dc&pf_rd_p=07c29de6-25cd-45aa-92da-27b85b57f7dc&pf_rd_r=261-1492907-9695918&pd_rd_wg=dyQkN&pd_rd_r=cf492e22-e96e-4f94-a075-e4fd57ba0862">Hier geht's zu Amazon</a>
 
 <h3>Shibari You Can Use</h3>
 Zweitelige Buchreihe von Lee Harrington.
@@ -68,7 +70,7 @@ Ein Buch von Gestalta.
 <br>
 Erscheinungsjahr: 2019
 <br>
-Stickworte: Suspensions
+Stickworte: suspension
 <br>
 ISBN:978-0957627543
 <br>
@@ -101,7 +103,7 @@ Ein Buch von Shay Tiziano.
 <br>
 Erscheinungsjahr: 2019
 <br>
-Stickworte: Self-Suspension
+Stickworte: self-suspension
 <br>
 ISBN:978-0578566405
 <br>
@@ -123,7 +125,7 @@ ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
 <h3>Das Bondage-Handbuch: Anleitung zum einvernehmlichen Fesseln</h3>
 Ein Buch von Matthias T. J. Grimme.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2011
 <br>
 Stickworte:
 <br>
@@ -134,7 +136,7 @@ ISBN:978-3931406714
 <h3>Japan-Bondage Das Bondage-Handbuch Spezial</h3>
 Ein Buch von Matthias T. J. Grimme.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2011
 <br>
 Stickworte:
 <br>
@@ -145,7 +147,7 @@ ISBN:978-3931406707
 <h3>Fesseln lernen: Anleitung zum Shibari Bondage</h3>
 Ein Buch von Hagen Alkis.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2023
 <br>
 Stickworte:
 <br>
@@ -156,9 +158,9 @@ ISBN:978-3754342749
 <h3>Shibari Lernen 1: Dein Einstieg in die japanische Seilkunst</h3>
 Ein Buch von Ichi Taikan.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2025
 <br>
-Stickworte:
+Stickworte: basics
 <br>
 ISBN:979-8283576497
 <br>
@@ -167,9 +169,9 @@ ISBN:979-8283576497
 <h3>Shibari Für Anfänger: Entdeckung Der Schönheit Und Eleganz Von Kinbaku</h3>
 Ein Buch von Yusuke Kojima.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2024
 <br>
-Stickworte:
+Stickworte: basics
 <br>
 ISBN:979-8304050128
 <br>
@@ -178,7 +180,7 @@ ISBN:979-8304050128
 <h3>Der Bondage Guide: Durch fesselndes Spiel aus Dominanz und Unterwerfung zu mehr Leidenschaft und Intimität in Ihrer Beziehung </h3>
 Ein Buch von Laura Mansen.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2024
 <br>
 Stickworte:
 <br>
