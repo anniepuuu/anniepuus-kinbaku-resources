@@ -5,11 +5,11 @@ Online repository for Kinbaku
 <h3>Shibaku</h3>
 Dreiteilige Buchreihe von Peter Wettstein.
 <br>
-ISBN:3952440728 Basis & Grundlagen - Band 1
+ISBN:978-3952440728 Basis & Grundlagen - Band 1
 <br>
-ISBN:3952440736 Takate-kote & Oberkörper - Band 2
+ISBN:978-3952440735 Takate-kote & Oberkörper - Band 2
 <br>
-ISBN:3952440787 Abheben & Fliegen - Band 3
+ISBN:978-3952440780 Abheben & Fliegen - Band 3
 <br>
 <a href="https://shibaku.ch/shop/buecher/">Hier geht's zum Shop</a>
 
@@ -75,6 +75,7 @@ ISBN:978-0578566405
 Zweitilige Buchreihe von Douglas Kent.
 <br>
 ISBN:978-0973668810 Douglas Kent's Complete Shibari: Land
+<br>
 ISBN:978-0973668827 Douglas Kent's Complete Shibari: Sky
 <br>
 <a href="https://www.amazon.de/dp/B0BFFJDRVL?binding=paperback&ref_=ast_author_bsi">Hier geht's zu Amazon</a>
