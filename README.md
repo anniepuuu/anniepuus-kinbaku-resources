@@ -197,7 +197,9 @@ ISBN:978-3757602451
 
 <h3>Rope 365</h3>
 <a href="https://rope365.com/">Hier geht's zur Website</a>
-
+<h3>Riggoros</h3>
+<a href="https://riggoros.love/shibari-lernen/">Hier geht's zur Website</a>
+<a href="https://www.youtube.com/channel/UC7hUgmbRSHLAA84Fd4Q2NSA">Hier geht's zu Youtube</a>
 
 
 <a href="">Hier geht's zur Website</a>
