@@ -5,9 +5,9 @@ Online repository for Kinbaku
 <h3>Shibaku</h3>
 Dreiteilige Buchreihe von Peter Wettstein. 
 <br>
-Erscheinungszeitraum:
+Erscheinungszeitraum: 2017-2021
 <br>
-Stickworte:
+Stickworte: basics, floor-work, suspension
 <br>
 ISBN:978-3952440728 Basis & Grundlagen - Band 1
 <br>
@@ -66,9 +66,9 @@ ISBN:978-1942733850
 <h3>Shibari Suspensions: A Step by Step Guide</h3>
 Ein Buch von Gestalta.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2019
 <br>
-Stickworte:
+Stickworte: Suspensions
 <br>
 ISBN:978-0957627543
 <br>
@@ -77,7 +77,7 @@ ISBN:978-0957627543
 <h3>Seductive Art of Japanese Bondage</h3>
 Ein Buch von Midori und Craig Morey.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2002
 <br>
 Stickworte:
 <br>
@@ -88,7 +88,7 @@ ISBN:978-1890159382
 <h3>Foundations of Rope Bondage: A Fun and Friendly Introduction to Rope Fundamentals</h3>
 Ein Buch von Lazarus Redmayne, Kajira Blue und Theduchy.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2023
 <br>
 Stickworte:
 <br>
@@ -99,9 +99,9 @@ ISBN:978-1937866433
 <h3>Tying and Flying: Bondage for self-suspension</h3>
 Ein Buch von Shay Tiziano.
 <br>
-Erscheinungsjahr:
+Erscheinungsjahr: 2019
 <br>
-Stickworte:
+Stickworte: Self-Suspension
 <br>
 ISBN:978-0578566405
 <br>
@@ -110,9 +110,9 @@ ISBN:978-0578566405
 <h3>Douglas Kent's Complete Shibari</h3>
 Zweitilige Buchreihe von Douglas Kent.
 <br>
-Erscheinungszeitraum:
+Erscheinungszeitraum: 2010
 <br>
-Stickworte:
+Stickworte: floor-work, suspension
 <br>
 ISBN:978-0973668810 Douglas Kent's Complete Shibari: Land
 <br>
