@@ -261,11 +261,21 @@ ISBN:978-3757602451
 <h3>EpicRope</h3>
  <a href="https://www.youtube.com/channel/UCM5WPHGRarPW3XtKgzNFYvg">Hier geht's zu Youtube</a>
 
-<h3></h3>
- <a href="">Hier geht's zu Youtube</a>
+<h3>Belle Corde</h3>
+ <a href="https://bellecorde.com/instructional-videos-1">Hier geht's zur Website</a>
 
-<h3></h3>
- <a href="">Hier geht's zu Youtube</a>
+<h3>deGiotto Rope</h3>
+ <a href="https://vimeo.com/degiottorope">Hier geht's zu Vimeo</a>
+
+<h3>La quarta corda</h3>
+ <a href="https://www.laquartacorda.it/en/nawame/">Hier geht's zur Website</a>
+ 
+<h3>Yukinaga Max</h3>
+ <a href="https://vimeo.com/yukinaga">Hier geht's zu Vimeo</a>
+ 
+<h3>Anatomie Studio</h3>
+ <a href="https://anatomiestudio.com/shibari-rope-videos/">Hier geht's zur Website</a>
+
 
 <h3></h3>
 <a href="">Hier geht's zu Youtube</a>
