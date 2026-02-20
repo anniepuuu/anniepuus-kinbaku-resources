@@ -274,3 +274,7 @@
  <a href="https://ropestudy.com/learn/">Go to the website here</a>
 <h3>ESINEM Shibari Classes</h3>
  <a href="https://www.shibariclasses.com/l/products?courseCategory=Free&sortKey=name&sortDirection=asc&page=1">Go to the website here</a>
+
+
+
+<h2>pre-session</h2>
