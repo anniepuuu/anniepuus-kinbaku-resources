@@ -297,7 +297,7 @@
 
 <h2>Pre-session</h2>
 <h3>Rope Radar</h3>
-<a href=" https://roperadar.com/download/">Hier geht's zur Website</a>
+<a href="https://roperadar.com/using-the-radar/">Hier geht's zur Website</a>
 
 
 
