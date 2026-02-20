@@ -196,7 +196,7 @@
  <a href="https://amzn.eu/d/0cJuwtA0">Go to Amazon here</a>
 
  <h3>Rope Navi</h3>
- Ein Buch von Yice Bani. 
+ A book by Yice Bani. 
  <br>
  Erscheinungsjahr: -
  <br>
