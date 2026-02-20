@@ -195,6 +195,17 @@
  <br>
  <a href="https://amzn.eu/d/0cJuwtA0">Go to Amazon here</a>
 
+ <h3>Rope Navi</h3>
+ Ein Buch von Yice Bani. 
+ <br>
+ Erscheinungsjahr: -
+ <br>
+ Stickworte:
+ <br>
+ ISBN:-
+ <br>
+ <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
+
 <h2>Online sources</h2>
 
 <h3>Shibari Study</h3>
