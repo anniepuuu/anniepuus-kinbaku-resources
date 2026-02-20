@@ -198,9 +198,9 @@
  <h3>Rope Navi</h3>
  A book by Yice Bani. 
  <br>
- Erscheinungsjahr: -
+ Publication year: -
  <br>
- Stickworte:
+ Keywords:
  <br>
  ISBN:-
  <br>
