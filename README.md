@@ -195,6 +195,17 @@
  <br>
  <a href="https://amzn.eu/d/0cJuwtA0">Hier geht's zu Amazon</a>
 
+ <h3>Rope Navi</h3>
+ Ein Buch von Yice Bani. 
+ <br>
+ Erscheinungsjahr: -
+ <br>
+ Stickworte:
+ <br>
+ ISBN:-
+ <br>
+  <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
+
 
 
 
@@ -282,5 +293,8 @@
 
 <h3>ESINEM Shibari Classes</h3>
  <a href="https://www.shibariclasses.com/l/products?courseCategory=Free&sortKey=name&sortDirection=asc&page=1">Hier geht's zur Website</a>
+
+
+ <h2>Pre-session</h2>
 
 
