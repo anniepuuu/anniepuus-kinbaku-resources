@@ -298,6 +298,10 @@
 <h2>Pre-session</h2>
 <h3>Rope Radar</h3>
 <a href="https://roperadar.com/using-the-radar/">Hier geht's zur Website</a>
+<h3>Fessel-Check von Riggoros</h3>
+<a href="https://riggoros.love/wp-content/uploads/2020/04/Fesselcheck_druck_1276px.jpg">Hier geht's zum Dokument</a>
+<h3>Risikoprofil von Riggoros</h3>
+<a href="https://riggoros.love/wp-content/uploads/2020/04/Risikoprofil-1.pdf">Hier geht's zum Dokument</a>
 
 
 
