@@ -280,3 +280,7 @@
 <h2>Pre-session</h2>
 <h3>Rope Radar</h3>
 <a href="https://roperadar.com/using-the-radar/">Go to the website here</a>
+<h3>Tying-Check by Riggoros</h3>
+<a href="https://riggoros.love/wp-content/uploads/2020/04/Fesselcheck_druck_1276px.jpg">Go to document</a>
+<h3>Consent by Riggoros</h3>
+<a href="https://riggoros.love/wp-content/uploads/2022/07/Riggoros_Consent.pdf">Go to document</a>
