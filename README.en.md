@@ -274,7 +274,9 @@
  <a href="https://ropestudy.com/learn/">Go to the website here</a>
 <h3>ESINEM Shibari Classes</h3>
  <a href="https://www.shibariclasses.com/l/products?courseCategory=Free&sortKey=name&sortDirection=asc&page=1">Go to the website here</a>
-
+ 
+<h3>Ropunawa</h3>
+<a href="https://www.youtube.com/@tyingwithfriends7963">Go to Youtube here</a>
 
 
 <h2>Pre-session</h2>
