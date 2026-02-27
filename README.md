@@ -294,6 +294,9 @@
 <h3>ESINEM Shibari Classes</h3>
  <a href="https://www.shibariclasses.com/l/products?courseCategory=Free&sortKey=name&sortDirection=asc&page=1">Hier geht's zur Website</a>
 
+<h3>Ropunawa</h3>
+<a href="https://www.youtube.com/@tyingwithfriends7963">Hier geht's zu Youtube</a>
+
 
 <h2>Pre-session</h2>
 <h3>Rope Radar</h3>
