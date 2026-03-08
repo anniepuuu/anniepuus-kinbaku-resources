@@ -204,7 +204,29 @@
  <br>
  ISBN:-
  <br>
-  <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
+ <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
+
+<h3> Back on the Ropes </h3>
+ Ein Buch von Two Knotty Boys.
+ <br>
+ Erscheinungsjahr: 2009
+ <br>
+ Stickworte:
+ <br>
+ ISBN:978-1931160698
+ <br>
+ <a href="https://amzn.eu/d/037SsCR1">Hier geht's zu Amazon</a>
+ 
+ <h3> Showing You the Ropes </h3>
+ Ein Buch von Two Knotty Boys.
+ <br>
+ Erscheinungsjahr: 2022
+ <br>
+ Stickworte:
+ <br>
+ ISBN:978-1931160698
+ <br>
+ <a href="https://amzn.eu/d/09MAkjUA">Hier geht's zu Amazon</a>
 
 
 
