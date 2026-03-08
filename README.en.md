@@ -206,6 +206,28 @@
  <br>
  <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
 
+ <h3> Back on the Ropes </h3>
+ A book by Two Knotty Boys.
+ <br>
+ Publication year: 2009
+ <br>
+ Keywords:
+ <br>
+ ISBN:978-1931160698
+ <br>
+ <a href="https://amzn.eu/d/037SsCR1">Go to Amazon here</a>
+ 
+ <h3> Showing You the Ropes </h3>
+ A book by Two Knotty Boys.
+ <br>
+ Publication year: 2022
+ <br>
+ Keywords:
+ <br>
+ ISBN:-
+ <br>
+ <a href="https://amzn.eu/d/09MAkjUA">Go to Amazon here</a>
+
 <h2>Online sources</h2>
 
 <h3>Shibari Study</h3>
