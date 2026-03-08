@@ -224,7 +224,7 @@
  <br>
  Stickworte:
  <br>
- ISBN:978-1931160698
+ ISBN:-
  <br>
  <a href="https://amzn.eu/d/09MAkjUA">Hier geht's zu Amazon</a>
 
