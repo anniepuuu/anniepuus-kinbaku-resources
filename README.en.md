@@ -204,7 +204,7 @@
  <br>
  ISBN:-
  <br>
- <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Hier geht's zu Etsy</a>
+ <a href="https://www.etsy.com/de/listing/4323585403/rope-navi?ref=user_profile">Go to Etsy here</a>
 
  <h3> Back on the Ropes </h3>
  A book by Two Knotty Boys.
