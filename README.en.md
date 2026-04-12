@@ -300,6 +300,8 @@
 <h3>Ropunawa</h3>
 <a href="https://www.youtube.com/@tyingwithfriends7963">Go to Youtube here</a>
 
+<h3>Nekobari</h3>
+ <a href="https://nekobari.com/">Go to the website here</a>
 
 <h2>Pre-session</h2>
 <h3>Rope Radar</h3>
